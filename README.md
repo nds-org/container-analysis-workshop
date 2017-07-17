@@ -42,6 +42,13 @@ The format of the workshop will be presentations (8/15) mixed with discussions a
 
 
 ### Tuesday August 15th
+Breakout groups might include:
+* Researcher use cases
+* Interactive vs non-interactive use cases
+* Moving analysis from to HPC environments
+* Data/storage
+* Security/permissions/licensing
+
 
 | Time          | Description   | Who |
 | ------------- | ------------- | ------------- |
