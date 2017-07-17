@@ -54,7 +54,7 @@ Breakout groups might include:
 | ------------- | ------------- | ------------- |
 | 9:00 - 9:30   | Discussion/planning | |
 | 9:30 - 11:30  | Breakout groups  |  Break ~10:45 |
-| 11:13 - 12:00 | Group discussion  | |
+| 11:30 - 12:00 | Group discussion  | |
 | 1:00 - 3:00   | Breakout groups  |   |
 | 3:00 - 3:15   | Break   |   |
 | 3:15 - 4:30   | Presentations/discussion   |   |
@@ -64,5 +64,5 @@ Breakout groups might include:
 | Time          | Description   | Who |
 | ------------- | ------------- | ------------- |
 | 9:00 - 9:30   | Discussion/planning | |
-| 9:30 - 11:30  | Breakoug groups  |   |
+| 9:30 - 11:30  | Breakout groups  |   |
 | 11:30 - 12:00 | Closing || 
