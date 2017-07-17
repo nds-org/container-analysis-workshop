@@ -30,7 +30,7 @@ The format of the workshop will be presentations (8/15) mixed with discussions a
 
 | Time          | Description   | Who |
 | ------------- | ------------- | ------------- |
-| 9:00 - 9:30   | Introduction/welcome | |
+| 9:00 - 9:30   | Introduction/welcome |  NDS/DataExpLab |
 | 9:30 - 11:00  | Presentations | |
 | 11:00 - 11:15 | Break  | |
 | 11:15 - 12:30 | Presentations | |
